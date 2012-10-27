@@ -6,3 +6,4 @@ solves problem: given 12 indistinguishable balls, where 11 are exactly the same,
 notes:
 - uses node.js
 - uses "fibers" module (npm install fibers)
+- takes about 30 seconds to run
